@@ -10,6 +10,8 @@ My name is **Jamie Adams**, a(n aspiring) software developer. I sometimes go by 
 
 I finished my A Levels in 2023, and I'm taking a year out to produce and learn some hopefully really cool stuff. I don't always have a lot to show for it, which this blog should fix...
 
+Please take a look at the **[BLOG](/blog)**.
+
 My latest project is [Citrahold](https://www.citrahold.com), a simple way to move saves between Nintendo 3DSs and Emulators.
 - [Website](https://www.citrahold.com)
 - GitHub Repos for
