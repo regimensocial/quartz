@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+date: 2023-12-27
 ---
 
 A friend of mine told me to start a blog when I had trouble remembering some of my projects. We were having a long chat and I eventually remembered enough to talk about. He told me, for my sake, to start a blog.
