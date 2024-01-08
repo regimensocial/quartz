@@ -46,6 +46,8 @@ Writing all of this now has only just made me realise that this would be quite a
 
 The issue would now be to figure out which end should host the server, the 3DS or the PC. Maybe both of them, for the hell of it. We'll see. 
 
+Also when this system is implemented, the other system will still be available. You've got the choice.
+
 #### Bottom Screen
 At the moment the bottom screen of the 3DS client is just a console. It's currently useful because it tells you if downloads and uploads are successful. It was also an easy way for me to give more information to the user as the way I made the top screen restricted you to only making drop down menus essentially.
 
